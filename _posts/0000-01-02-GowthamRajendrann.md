@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+<b>The whole new world of <br> programming<b>
